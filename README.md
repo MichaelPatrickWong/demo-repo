@@ -6,4 +6,8 @@ Some description!
 
 ## Updating with branch     
 
-Yo
+<<<<<<< HEAD
+Yo-conflict 1
+=======
+Yo-conflict 2
+>>>>>>> main
