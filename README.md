@@ -6,4 +6,4 @@ Some description!
 
 ## Updating with branch     
 
-Yo
+Yo - conflict 2
